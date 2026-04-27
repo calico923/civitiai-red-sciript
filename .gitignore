@@ -1,0 +1,7 @@
+.env
+*.jsonl
+*.out
+out/
+
+__pycache__/
+*.py[cod]
